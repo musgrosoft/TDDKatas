@@ -1,6 +1,6 @@
 # TDDKatas
 
-Beginner .NET TDD Katas
+## Beginner .NET TDD Katas
 
 These Katas will introduce the topic of Test-Driven-Development (TDD). 
 
